@@ -21,4 +21,5 @@ public class Addition {
 
         System.out.printf("A soma é %d%n", sum);
     }
+
 }
