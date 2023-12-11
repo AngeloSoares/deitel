@@ -24,6 +24,7 @@ public class AccountTest {
         displayAccount(account1);
     }
 
+
     public static void displayAccount(Account accountToDisplay)
     {
         System.out.printf("%s saldo: $%.2f %n%n", accountToDisplay.getName(),accountToDisplay.getBalance());
