@@ -13,6 +13,7 @@ public class Account
             this.balance = balance;
     }
 
+
     public void deposit(double depositAmount)
     {
         if (depositAmount > 0.0)
@@ -33,4 +34,17 @@ public class Account
     {
         return name;
     }
+
+    public void withdraw(double withdraw)
+    {
+        if(withdraw <= balance)
+        {
+            balance = balance - withdraw;
+        }
+        else
+        {
+            System.out.println("Valor de débito excedeu o limite de saldo em conta!");
+        }
+    }
+
 }
