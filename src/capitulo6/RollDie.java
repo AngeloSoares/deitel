@@ -1,4 +1,4 @@
-package Capitulo6;
+package capitulo6;
 
 import java.security.SecureRandom;
 

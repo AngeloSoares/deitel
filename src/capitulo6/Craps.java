@@ -1,4 +1,4 @@
-package Capitulo6;//Simulação do jogo Craps e apresentação tipo enum.
+package capitulo6;//Simulação do jogo Craps e apresentação tipo enum.
 
 import java.security.SecureRandom;
 

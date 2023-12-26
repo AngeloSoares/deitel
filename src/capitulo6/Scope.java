@@ -1,4 +1,4 @@
-package Capitulo6;
+package capitulo6;
 
 // A Classe Scope demostra os escopos de campo e variável local.
 public class Scope

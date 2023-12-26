@@ -1,4 +1,4 @@
-package Capitulo6;
+package capitulo6;
 
 //Declarações de métodos sobrecarregados ou sobrecarga de métodos.
 //São simplesmente métodos que contem o mesmo nome, mas com argumentos diferentes, sejam ordem, tipo ou em números.
