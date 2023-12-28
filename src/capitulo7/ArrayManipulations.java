@@ -10,6 +10,8 @@ public class ArrayManipulations
         Arrays.sort(doubleArray);
         System.out.printf("%ndoubleArray: ");
 
+
+
         for (double value: doubleArray)
             System.out.printf("%.1f ", value);
 
