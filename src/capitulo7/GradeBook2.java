@@ -104,11 +104,11 @@ public class GradeBook2
 
     public void outputGrades()
     {
-        System.out.println("As notas são: %n%n");
-        System.out.print("          ");
+        System.out.println("As notas são: \n");
+        System.out.print("             ");
 
         for(int test = 0; test < grades[0].length; test++)
-            System.out.printf("Teste %d", test + 1);
+            System.out.printf("Teste %d  ", test + 1);
 
         System.out.println("Média");
 
